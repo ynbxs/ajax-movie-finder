@@ -9,13 +9,13 @@ A sleek movie search app using the OMDb API, Bootstrap 5, and JavaScript.
 - Real-time movie search
 - Responsive cards with posters & year
 - Dark-themed UI with modern styling
-- Custom API key (stored locally and ignored in Git)
+- Custom API key
 
 ## 📁 Structure
 - `index.html`
 - `style.css`
 - `lib/index.js`
-- `lib/config.js` (not tracked, private)
+- `lib/config.js`
 
 ## 📦 Technologies
 - JavaScript
